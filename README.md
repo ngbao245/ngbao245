@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img 
-  ![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE)
-    />
+![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
