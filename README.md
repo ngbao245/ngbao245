@@ -3,8 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
 </h1>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=material-palenight
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
 
 
 ![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
