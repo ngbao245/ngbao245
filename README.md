@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=494161)
+![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=C792EA)
 
 ![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
 
