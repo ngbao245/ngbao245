@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
 </h1>
 
 
