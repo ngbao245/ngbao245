@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true/?username=ryo-ma&theme=material-palenight"><img src="https://github-profile-trophy.vercel.app/?username=ngbao245" alt="ngbao245" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true/?username=ryo-ma&theme=material-palenight"></a> </p>
 
 
 ![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
