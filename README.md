@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" alt="ngbao245" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" alt="ngbao245" />
 </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true/?username=ryo-ma&theme=material-palenight"></a> </p>
