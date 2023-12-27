@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge)
