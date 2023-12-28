@@ -22,30 +22,35 @@
 <details open>
   <summary><h2>🚹 I / Me / Myself</h2></summary>
   
-<img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
-
-## Hey!
-
-I'm **Hoang Bao**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
+<div style="display: flex; align-items: center;">
+  <img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
+  <h3 align="left">Hey! I'm Hoang Bao.</h3>
+</div>
+I'm **Hoang Bao**, a C# aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
 
 <br>
+<br>
 
-Ever since I joined GitHub **7** years ago, I pushed **21064** commits, opened **355** issues, submitted **780** pull requests, received **14093** stars across **111** personal projects, and contributed to **170** public repositories.
+<!-- 
+- I am a programming rookie.
+- I like to use a variety of productivity software to boost up my efficiency.
+- I like C#, and I used to dream of being a game developer.
+- But reality has left me with no time to learn, so I started with web development.
+- I'm intrigued by exploring and experimenting with unfamiliar technologies.
+-->
+</details>
 
-Here is a list of my **projects**:</details>
-
-
-<a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace%2C+SFMono-Regular%2C+%22SF+Mono%22%2C+Menlo%2C+Consolas%2C+%22Liberation+Mono%22%2C+monospace&size=12&duration=0.000000000000000000000001&pause=0.0000000000000000001&color=AE82CE&repeat=false&vCenter=true&multiline=true&random=false&width=1000&height=40&lines=BiBo%3E+My+name+is+Bao%2C+a+fresher+at+FPTU%2C+passionate+about+programming+with+proficiency+in+C%23.+;BiBo%3E+My+goal+is+to+become+a+fullstack+software+engineer." alt="Typing SVG" /></a>
+<a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace%2C+SFMono-Regular%2C+%22SF+Mono%22%2C+Menlo%2C+Consolas%2C+%22Liberation+Mono%22%2C+monospace&size=15&duration=0.000000000000000000000001&pause=0.0000000000000000001&color=AE82CE&repeat=false&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=&#x2022;+I+am+a+programming+rookie.;&#x2022;+I+like+to+use+a+variety+of+productivity+software+to+boost+up+my+efficiency.;&#x2022;+I+like+C%23%2C+and+I+used+to+dream+of+being+a+game+developer.;&#x2022;+But+reality+has+left+me+with+no+time+to+learn%2C+so+I+started+with+web+development.;&#x2022;+I'm+intrigued+by+exploring+and+experimenting+with+unfamiliar+technologies." alt="Typing SVG" /></a>
 
 ```csharp
-class BiBo
+class HoangBao
 {
-    string Name = "Bibo";
-    string School = "FPTU";
+    string NickName = "Bibo";
+    string School = "FPT University";
     String Level = "Fresher"
     string Pronouns = "he/him";
     List<string> Hobbies = new List<string> { "soccer", "programming", "music", "travel" };
-    List<string> ProgrammingLanguages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
+    List<string> Languages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
 }
 ```
 <details open>
@@ -70,16 +75,12 @@ class BiBo
       <a href="https://github.com/ngbao245/LeetCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=LeetCode&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
 
 </div>
-
-
    
 <br>
   <p align="center">
     <a href="https://github.com/ngbao245?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </details>
-
-
 
 <details open>
   <summary><h2>📶 Github Stats</h2></summary>
@@ -100,17 +101,3 @@ class BiBo
       <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
     </p>
 </details>  
-
- 
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
