@@ -22,7 +22,7 @@
 <details open>
   <summary><h2>🚹 I / Me / Myself</h2></summary>
   
-<img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon.png" width="auto" height="100">
+<img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
 
 ## Hey!
 
