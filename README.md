@@ -1,3 +1,4 @@
+<a href="https://github.com/ngbao245?tab=repositories">
 <!-- Introduction -->
 <p align="right">
   <a href="https://github.com/ngbao245?tab=repositories"><img src="https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE"></a>
@@ -47,7 +48,7 @@ class BiBo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
 </p>
-
+</a>
 
 
 
