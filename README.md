@@ -28,10 +28,9 @@ class BiBo
 
 ## 📶 Github Stats
 ---
-  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
-  <img height="190" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
+  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
 
----
 ---
 ---
 ---
