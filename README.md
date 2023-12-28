@@ -7,7 +7,7 @@
 </p>
 
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=ng.hoangbao03@gmail.com">
+  <a href="mailto:ng.hoangbao03@gmail.com">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&Color=orange" /></a>
   <a href="https://www.linkedin.com/in/storage-gmail-661b5b29b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
