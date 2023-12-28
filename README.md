@@ -1,11 +1,51 @@
+<!-- Introduction -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE" alt="GitHub Profile Views Badge">
 </p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
 </h1>
 
+```markdown
+> My name is Bao, a fresher at FPTU, passionate about programming with proficiency in C#.
+> My goal is to become a fullstack software engineer.
+
+```
+
+This is a paragraph with <span style="color: green;">green text</span>.
+
+> This is a block quote with <span style="color: red;">red text</span>.
+
+- List item 1 with <span style="color: blue;">blue text</span>
+- List item 2 with <span style="color: orange;">orange text</span>
+
+
+
+```csharp
+class BiBo
+{
+    string Name = "Bibo";
+    string School = "FPTU";
+    String Level = "Fresher"
+    string Pronouns = "he/him";
+    List<string> Hobbies = new List<string> { "soccer", "programming", "music", "travel" };
+    List<string> ProgrammingLanguages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
+}
+```
+---
+### Blockquotes
+
+```markdown
+> This is a blockquote.
+```
+
+- [x] Task 1
+- [ ] Task 2
+
+
+
+
+[Link to Section 2](#section-2)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" alt="ngbao245" />
