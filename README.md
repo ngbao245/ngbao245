@@ -23,6 +23,8 @@ class BiBo
 ## #️⃣ Github Contributions
 ![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=TaskManagement>
+
 ## 🌐 Github Contributions
 
 
