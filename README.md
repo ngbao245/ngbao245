@@ -31,16 +31,6 @@ class BiBo
   <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
   <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
 
----
----
----
----
----
----
----
----
----
-
 ## 💎 Github Achives
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
