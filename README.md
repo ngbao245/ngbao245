@@ -17,8 +17,10 @@
     <img src="https://img.shields.io/badge/Instagram-333333?color=FC0063&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
+
+
 <details open>
-  <summary><h2>🌐 Contect</h2></summary>
+  <summary><h2>🚹 I / Me / Myself</h2></summary>
 
   <!-- Content of the collapsible section goes here -->
   <!-- Add your content here -->
