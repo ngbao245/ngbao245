@@ -56,3 +56,23 @@ class BiBo
     </p>
 </details>
 
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+      <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"</a>
+      <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+      <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+      <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+        <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+        <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+        <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+        <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+        <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+   </div>
+
+  <p align="center">
+    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details>
+
