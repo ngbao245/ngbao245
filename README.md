@@ -6,6 +6,18 @@
     <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!;+I'm+BaoBiBo!;" /></a>
 </p>
 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><!-- sqlite, safari, google-chrome are other good icon options --></a>
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=resume&logoColor=white" target="_blank" /></a>
+ -->
+</div>
+
 <details open>
   <summary><h2>🌐 Contect</h2></summary>
 
@@ -54,7 +66,7 @@ class BiBo
    
 <br>
   <p align="center">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/ngbao245?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </details>
 
@@ -74,14 +86,22 @@ class BiBo
 </details>
 
 <details open>
-  <summary><h2>💎 Github Achives</h2></summary>
+  <summary><h2>💎 Github Achievements</h2></summary>
     <p align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
     </p>
-</details>
+</details>  
 
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+ 
 
-  
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
