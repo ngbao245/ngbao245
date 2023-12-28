@@ -19,25 +19,35 @@ class BiBo
     List<string> ProgrammingLanguages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
 }
 ```
----
+
 ## #️⃣ Github Contributions
 ![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
 
+## 🌐 Github Contributions
 
 
----
 ## 📶 Github Stats
-
-<div>
+---
   <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
   <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
-</div>
 
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
+## 💎 Github Achives
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
 </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true/?username=ryo-ma&theme=material-palenight"></a> </p>
+
+
+
 
 
