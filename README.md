@@ -3,23 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE" alt="GitHub Profile Views Badge">
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+BaoBiBo!;" />
 </h1>
 
-```markdown
-> My name is Bao, a fresher at FPTU, passionate about programming with proficiency in C#.
-> My goal is to become a fullstack software engineer.
-
-```
-
-This is a paragraph with <span style="color: green;">green text</span>.
-
-> This is a block quote with <span style="color: red;">red text</span>.
-
-- List item 1 with <span style="color: blue;">blue text</span>
-- List item 2 with <span style="color: orange;">orange text</span>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace%2C+SFMono-Regular%2C+%22SF+Mono%22%2C+Menlo%2C+Consolas%2C+%22Liberation+Mono%22%2C+monospace&size=12&duration=0.000000000000000000000001&pause=0.0000000000000000001&color=AE82CE&repeat=false&vCenter=true&multiline=true&random=false&width=1000&height=40&lines=BiBo%3E+My+name+is+Bao%2C+a+fresher+at+FPTU%2C+passionate+about+programming+with+proficiency+in+C%23.+;BiBo%3E+My+goal+is+to+become+a+fullstack+software+engineer." alt="Typing SVG" /></a>
 
 ```csharp
 class BiBo
@@ -33,27 +20,24 @@ class BiBo
 }
 ```
 ---
-### Blockquotes
-
-```markdown
-> This is a blockquote.
-```
-
-- [x] Task 1
-- [ ] Task 2
+## #️⃣ Github Contributions
+![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
+---
+## 📶 Github Stats
 
-[Link to Section 2](#section-2)
+<div>
+  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
+  <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
+</div>
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" alt="ngbao245" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
 </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true/?username=ryo-ma&theme=material-palenight"></a> </p>
 
 
-![snake gif](https://github.com/ngbao245/ngbao245/blob/output/github-contribution-grid-snake-dark.svg)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true)
