@@ -21,10 +21,18 @@
 
 <details open>
   <summary><h2>🚹 I / Me / Myself</h2></summary>
+  
+<img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon.png" width="auto" height="100">
 
-  <!-- Content of the collapsible section goes here -->
-  <!-- Add your content here -->
-</details>
+## Hey!
+
+I'm **Hoang Bao**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
+
+<br>
+
+Ever since I joined GitHub **7** years ago, I pushed **21064** commits, opened **355** issues, submitted **780** pull requests, received **14093** stars across **111** personal projects, and contributed to **170** public repositories.
+
+Here is a list of my **projects**:</details>
 
 
 <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace%2C+SFMono-Regular%2C+%22SF+Mono%22%2C+Menlo%2C+Consolas%2C+%22Liberation+Mono%22%2C+monospace&size=12&duration=0.000000000000000000000001&pause=0.0000000000000000001&color=AE82CE&repeat=false&vCenter=true&multiline=true&random=false&width=1000&height=40&lines=BiBo%3E+My+name+is+Bao%2C+a+fresher+at+FPTU%2C+passionate+about+programming+with+proficiency+in+C%23.+;BiBo%3E+My+goal+is+to+become+a+fullstack+software+engineer." alt="Typing SVG" /></a>
