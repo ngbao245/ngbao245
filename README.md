@@ -1,7 +1,12 @@
 <!-- Introduction -->
 <p align="right">
   <a href="https://github.com/ngbao245?tab=repositories"><img src="https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE"></a>
+    </br>
+  <a href="https://github.com/ngbao245">
+    <img src="https://img.shields.io/github/followers/ngbao245?label=follow&style=for-the-badge&logo=github">
+  </a>
 </p>
+
 <p align="center">
     <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!;+I'm+BaoBiBo!;" /></a>
 </p>
@@ -15,6 +20,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://www.instagram.com/ng_bao245/">
     <img src="https://img.shields.io/badge/Instagram-333333?color=FC0063&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </div>
 
 
@@ -26,7 +32,7 @@
   <img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
   <h3 align="left">Hey! I'm Hoang Bao.</h3>
 </div>
-I'm **Hoang Bao**, a C# aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
+I'm <b>Hoang Bao</b>, a C# aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
 
 <br>
 <br>
