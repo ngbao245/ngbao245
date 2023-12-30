@@ -68,8 +68,8 @@ class HoangBao
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <!-- ChatRoom -->
-      <a href="https://github.com/ngbao245/ChatRoom">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=ChatRoom&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/SignalR-ChatRoom">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=SignalR-ChatRoom&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- PokeShop -->
       <a href="https://github.com/ngbao245/PokeShop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=PokeShop&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- dotnetCore -->
