@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/storage-gmail-661b5b29b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1IocqvcW8I4A3Gqi_nWf7j0LJnswHW7F8/view?usp=sharing">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://www.instagram.com/ng_bao245/">
     <img src="https://img.shields.io/badge/Instagram-333333?color=FC0063&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
