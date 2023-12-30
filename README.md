@@ -20,10 +20,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://www.instagram.com/ng_bao245/">
     <img src="https://img.shields.io/badge/Instagram-333333?color=FC0063&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
 </div>
-
-
 
 <details open>
   <summary><h2>🚹 I / Me / Myself</h2></summary>
@@ -34,8 +31,6 @@
 </div>
 Waddling into the coding scene with the comedic flair of a tech-savvy pigeon, I'm <b>Hoang Bao</b>—an irreverent <b>C#</b> rookie, eagerly seeking opportunities to cultivate and elevate my coding skills.
 
-
-<br>
 <br>
 
 <!-- 
