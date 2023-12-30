@@ -2,7 +2,7 @@
 <p align="right">
   <a href="https://github.com/ngbao245?tab=repositories"><img src="https://komarev.com/ghpvc/?username=ngbao245&style=for-the-badge&base=1000&color=AE82CE"></a>
     </br>
-  <a href="https://github.com/ngbao245">
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fngbao245">
     <img src="https://img.shields.io/github/followers/ngbao245?label=follow&style=for-the-badge&logo=github">
   </a>
 </p>
@@ -88,9 +88,10 @@ class HoangBao
 
 <details open>
   <summary><h2>📶 Github Stats</h2></summary>
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
-  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
-
+  <a href="https://github.com/ngbao245?tab=repositories">
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
+    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
+  </a>
 ---
 ---
 ---
@@ -102,6 +103,7 @@ class HoangBao
 <details open>
   <summary><h2>💎 Github Achievements</h2></summary>
     <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" />
+      <a href="https://github.com/ngbao245?tab=repositories">
+      <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" /></a>
     </p>
 </details>  
