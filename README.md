@@ -89,9 +89,10 @@ class HoangBao
 <details open>
   <summary><h2>📶 Github Stats</h2></summary>
   <a href="https://github.com/ngbao245?tab=repositories">
-    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats">
-    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5">
-  </a>
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ngbao245&theme=material-palenight&show_icons=true" alt="GitHub stats"></a>
+  <a href="https://github.com/ngbao245?tab=repositories">
+    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbao245&theme=material-palenight&layout=compact&langs_count=5"></a>
+
 ---
 ---
 ---
