@@ -14,7 +14,7 @@
 <div align="center"> 
   <a href="mailto:ng.hoangbao03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FEBB03?color=AAAAAA&style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://www.linkedin.com/in/storage-gmail-661b5b29b/">
+  <a href="https://www.linkedin.com/in/ngbao2405/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1IocqvcW8I4A3Gqi_nWf7j0LJnswHW7F8/view?usp=sharing">
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
