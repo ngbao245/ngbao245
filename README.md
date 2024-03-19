@@ -70,13 +70,20 @@ class HoangBao
   <!-- PokeShop -->
       <a href="https://github.com/ngbao245/PokeShop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=PokeShop&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- dotnetCore -->
-      <a href="https://github.com/ngbao245/api-docnetcore"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=api-docnetcore&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/dot-net-core-web-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=dot-net-core-web-api&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- TaskManagement -->
       <a href="https://github.com/ngbao245/TaskManagement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=TaskManagement&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- StudentManagement -->
       <a href="https://github.com/ngbao245/StudentManagement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=StudentManagement&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- LeetCode -->
       <a href="https://github.com/ngbao245/LeetCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=LeetCode&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+  <!-- Loop -->
+      <a href="https://github.com/ngbao245/HorrorGame_Loop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=HorrorGame_Loop&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+  <!-- PRN221 -->
+      <a href="https://github.com/ngbao245/PRN221"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=PRN221&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+    <!-- Photo_Booth_AI_Detect -->
+      <a href="https://github.com/ngbao245/Photo_Booth_AI_Detect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=Photo_Booth_AI_Detect&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+
 
 </div>
    
