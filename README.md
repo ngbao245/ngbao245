@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-FEBB03?color=AAAAAA&style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/ngbao2405/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1nqR6-4UMPvzpL15iMXeVUiQb3rM2mq3H/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/14F_sxEQ5n8aAX3rHN3ieyY5n_7csE3o_/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://www.instagram.com/ng_bao245/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-333333?color=FC0063&style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -29,7 +29,7 @@
   <img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
   <h3 align="left">Hey! I'm Hoang Bao.</h3>
 </div>
-Waddling into the coding scene with the comedic flair of a tech-savvy pigeon, I'm <b>Hoang Bao</b>—an irreverent <b>C#</b> rookie, eagerly seeking opportunities to cultivate and elevate my coding skills.
+Waddling into the coding scene with the comedic flair of a tech-savvy pigeon, I'm <b>Hoang Bao</b> — an irreverent <b>C#</b> rookie, eagerly seeking opportunities to cultivate and elevate my coding skills.
 
 <br>
 
