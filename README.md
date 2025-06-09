@@ -114,9 +114,9 @@ class HoangBao
 </details>
 
 <details open>
-  <summary><h2>💎 Github Achievements</h2></summary>
+  <summary><h2>💎 Achievements</h2></summary>
     <p align="center">
-      <a href="https://github.com/ngbao245?tab=repositories">
-      <img src="https://github-profile-trophy.vercel.app/?username=ngbao245&no-frame=true&no-bg=false&row=1&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=nord" alt="ngbao245" /></a>
+        <a href="https://github.com/user-attachments/assets/914c697c-3ed1-4eae-a38f-a8ee8d07f34b/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/914c697c-3ed1-4eae-a38f-a8ee8d07f34b"/></a>
     </p>
 </details>  
