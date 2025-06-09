@@ -51,7 +51,7 @@ class HoangBao
 {
     string NickName = "Bibo";
     string School = "FPT University";
-    String Level = "Fresher"
+    String Level = "Junior"
     string Pronouns = "he/him";
     List<string> Hobbies = new List<string> { "soccer", "programming", "music", "travel" };
     List<string> Languages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
