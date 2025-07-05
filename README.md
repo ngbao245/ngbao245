@@ -26,7 +26,7 @@
   <summary><h2>🚹 I / Me / Myself</h2></summary>
   
 <div style="display: flex; align-items: center;">
-  <img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="auto" height="100">
+  <img align="left" src="https://github.com/ngbao245/ngbao245/blob/main/images/pigeon3.png" width="100" height="100">
   <h3 align="left">Hey! I'm Hoang Bao.</h3>
 </div>
 Waddling into the coding scene with the comedic flair of a tech-savvy pigeon, I'm <b>Hoang Bao</b> — an irreverent <b>C#</b> rookie, eagerly seeking opportunities to cultivate and elevate my coding skills.
