@@ -33,6 +33,9 @@
   
   <br>
   
+  <div style="display: flex; align-items: left;">
+
+
   <!-- 
   - I am a programming rookie.
   - I like to use a variety of productivity software to boost up my efficiency.
@@ -46,10 +49,6 @@
   <p align="right">
     <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace%2C+SFMono-Regular%2C+%22SF+Mono%22%2C+Menlo%2C+Consolas%2C+%22Liberation+Mono%22%2C+monospace&size=15&duration=0.000000000000000000000001&pause=0.0000000000000000001&color=AE82CE&repeat=false&vCenter=true&multiline=true&random=false&width=720&height=110&lines=&#x2022;+I+am+a+programming+rookie.;&#x2022;+I+like+to+use+a+variety+of+productivity+software+to+boost+up+my+efficiency.;&#x2022;+I+like+C%23%2C+and+I+used+to+dream+of+being+a+game+developer.;&#x2022;+But+reality+has+left+me+with+no+time+to+learn%2C+so+I+started+with+web+development.;&#x2022;+I'm+intrigued+by+exploring+and+experimenting+with+unfamiliar+technologies." alt="Typing SVG" /></a>
   </p>
-  
-</details>
-
-
 
 ```csharp
 class HoangBao
@@ -62,6 +61,12 @@ class HoangBao
     List<string> Languages = new List<string> { "C#", "Java", "JavaScript", "TypeScript" };
 }
 ```
+  </div>
+</details>
+
+
+
+
 <details open>
   <summary><h2>#️⃣ Github Contributions</h2></summary>
     <a href="https://github.com/ngbao245?tab=repositories">
