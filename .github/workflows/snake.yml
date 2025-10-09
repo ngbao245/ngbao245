@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # Chạy tự động mỗi 24 giờ
+  # Tự động chạy mỗi 24 giờ
   schedule:
     - cron: "0 */24 * * *"
   
@@ -16,19 +16,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
 
       - name: Generate GitHub contribution snake animations
         id: generate-snake
@@ -41,15 +35,7 @@ jobs:
             dist/github-contribution-grid-snake-ocean.svg?color_snake=orange&color_dots=#dadcdf94,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/github-contribution-grid-snake-grey.svg?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
 
-      - name: Verify generated files
-        run: |
-          ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake-ocean.svg
-          test -f dist/github-contribution-grid-snake-grey.svg
-
-      - name: Deploy generated SVGs to output branch
+      - name: Push generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
