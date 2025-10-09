@@ -69,9 +69,13 @@ class HoangBao
 
 <details open>
   <summary><h2>#️⃣ Github Contributions</h2></summary>
-    <a href="https://github.com/ngbao245?tab=repositories">
-      <img src="https://raw.githubusercontent.com/ngbao245/ngbao245/output/github-contribution-grid-snake-dark.svg" alt="Snake Gif">
-    </a>
+  <a href="https://github.com/ngbao245?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngbao245/ngbao245/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngbao245/ngbao245/output/github-contribution-grid-snake.svg" />
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ngbao245/ngbao245/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <!-- opslink -->
