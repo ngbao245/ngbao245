@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=2900&lines=Hi+There!;+I'm+BaoBiBo!;" /></a>
+    <a href="https://github.com/ngbao245?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=2800&lines=Hi+There!;+I'm+BaoBiBo!;" /></a>
 </p>
 
 <div align="center"> 
@@ -79,29 +79,29 @@ class HoangBao
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;" align="center">
   <!-- opslink -->
-    <a href="https://github.com/ngbao245/pizza-service-capstone"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=pizza-service-capstone&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+    <a href="https://github.com/ngbao245/pizza-service-capstone"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=pizza-service-capstone&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- koi-farm-frontend -->
-      <a href="https://github.com/ngbao245/koi-farm-frontend"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-frontend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/koi-farm-frontend"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-frontend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- koi-farm-backend -->
-      <a href="https://github.com/ngbao245/koi-farm-backend"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-backend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/koi-farm-backend"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-backend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
     <!-- bird-store-android -->
-      <a href="https://github.com/ngbao245/bird-store-android"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=bird-store-android&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/bird-store-android"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=bird-store-android&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- dotnetCore -->
-      <a href="https://github.com/ngbao245/dot-net-core-web-api"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=dot-net-core-web-api&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/dot-net-core-web-api"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=dot-net-core-web-api&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- TaskManagement -->
-      <a href="https://github.com/ngbao245/task-management-application"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=task-management-application&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/task-management-application"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=task-management-application&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- StudentManagement -->
-      <a href="https://github.com/ngbao245/student-management-console"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=student-management-console&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/student-management-console"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=student-management-console&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- LeetCode -->
-      <a href="https://github.com/ngbao245/leetcode"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=leetcode&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/leetcode"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=leetcode&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- Loop -->
-      <a href="https://github.com/ngbao245/loop-horror-game"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=loop-horror-game&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/loop-horror-game"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=loop-horror-game&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
       <!-- prm392 -->
-      <a href="https://github.com/ngbao245/prm392"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prm392&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/prm392"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prm392&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
     <!-- prn231 -->
-      <a href="https://github.com/ngbao245/prn231"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prn231&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/prn231"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prn231&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
     <!-- Photo_Booth_AI_Detect -->
-      <a href="https://github.com/ngbao245/photo-booth-ai-detection"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=photo-booth-ai-detection&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/ngbao245/photo-booth-ai-detection"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=photo-booth-ai-detection&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
 
 
 </div>
